@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-<h3 align="left">Ex-pharmacist want to be C++ programist!</h3>
+<h3 align="left">Ex-pharmacist want to be C++ developer!</h3>
 
 - 🔭 I’m currently working on **Training Plan**
 
